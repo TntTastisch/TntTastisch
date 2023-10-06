@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭 I’m currently working on my Skills.<br>
+✌️ Enjoy to do programming and sharing knowledge <br>
+❤️ Love to writing code and learning new features<br>
 🌱 I’m currently learning more about Development<br>
+💬 Ask me about anything [here](https://github.com/TntTastisch/TntTastisch/issues)
 
 
 ## 🌐 Socials:
@@ -26,4 +29,5 @@
 ![LotusScript](https://img.shields.io/badge/LotusScript-%23000000.svg?style=for-the-badge&logo=LotusScript&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
