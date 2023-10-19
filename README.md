@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 🔭 I’m currently working on my Skills.<br>
 ✌️ Enjoy to do programming and sharing knowledge <br>
 ❤️ Love to writing code and learning new features<br>
@@ -6,7 +6,7 @@
 💬 Ask me about anything [here](https://github.com/TntTastisch/TntTastisch/issues)
 
 
-# 🌐 Socials:
+# 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TntTastisch) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TntTastisch) 
@@ -20,7 +20,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9t36BY5)
 [![TeamSpeak](https://img.shields.io/badge/TeamSpeak-5F758E.svg?logo=teamspeak&logoColor=white)](ts3server://tnttastisch.de)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
   ### 🌐 WEB
   ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
