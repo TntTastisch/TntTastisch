@@ -1,10 +1,9 @@
 # 💫 About Me
 🔭 I’m currently working on my Skills.<br>
-✌️ Enjoy to do programming and sharing knowledge <br>
-❤️ Love to writing code and learning new features<br>
+✌️ Enjoy doing programming and sharing knowledge <br>
+❤️ Love writing code and learning new features<br>
 🌱 I’m currently learning more about Development<br>
 💬 Ask me about anything [here](https://github.com/TntTastisch/TntTastisch/issues)
-
 
 # 🌐 Socials
 
@@ -32,6 +31,7 @@
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=Python&logoColor=white) 
   ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+  ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) 
   
   ### 🚀 Cfx (FiveM/RedM)
   ![Lua](https://img.shields.io/badge/Lua-%23FF1B2D.svg?style=for-the-badge&logo=Lua&logoColor=white) 
