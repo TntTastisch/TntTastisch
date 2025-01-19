@@ -22,7 +22,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9t36BY5)
 [![TeamSpeak](https://img.shields.io/badge/TeamSpeak-5F758E.svg?logo=teamspeak&logoColor=white)](ts3server://tnttastisch.de)
 
-
 # 💻 Tech Stack
 
   ### 🌐 WEB
