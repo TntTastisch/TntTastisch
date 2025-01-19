@@ -20,7 +20,7 @@
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.de/TntTastisch) 
 [![SpigotMC](https://img.shields.io/badge/SpigotMC-orange.svg?logo=bukkit)](https://www.spigotmc.org/members/tnttastisch.631743/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9t36BY5)
-[![TeamSpeak](https://img.shields.io/badge/TeamSpeak-5F758E.svg?logo=teamspeak&logoColor=white)](ts3server://tnttastisch.de/)
+[![Visit Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https;//tnttastisch.de)
 
 # 💻 Tech Stack
 
