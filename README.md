@@ -13,12 +13,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TntTastisch) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@TntTastisch) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@TntTastisch) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TntTastisch) 
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/TntTastischTV) 
 [![Kick](https://img.shields.io/badge/Kick-%239146FF.svg?logo=Kickstarter&logoColor=white)](https://kick.com/tnttastisch)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/TntTastisch) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.de/TntTastisch) 
-[![SpigotMC](https://img.shields.io/badge/SpigotMC-orange.svg?logo=bukkit)](https://www.spigotmc.org/members/tnttastisch.631743/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9t36BY5)
 [![Visit Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://tnttastisch.de)
 
@@ -76,8 +74,9 @@
 
 
 # 🌟 GitHub Stats
-
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tnttastisch&show_icons=true&theme=github_dark&hide_title=true" alt="TntTastisch's GitHub Stats" width="60%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tnttastisch&layout=compact&theme=github_dark&langs_count=8" alt="TntTastisch's Most Used Languages" width="38%" />
   <img src="https://streak-stats.demolab.com?user=tnttastisch&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tnttastisch&theme=github_dark" alt="Repos by Language" width="48%" />
+</div>  
