@@ -73,7 +73,11 @@
   ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
   ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TntTastisch&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TntTastisch&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TntTastisch&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+# 🌟 GitHub Stats
+
+  <img src="https://github-readme-stats.vercel.app/api?username=tnttastisch&show_icons=true&theme=github_dark&hide_title=true" alt="TntTastisch's GitHub Stats" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tnttastisch&layout=compact&theme=github_dark&langs_count=8" alt="TntTastisch's Most Used Languages" width="38%" />
+  <img src="https://streak-stats.demolab.com?user=tnttastisch&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tnttastisch&theme=github_dark" alt="Repos by Language" width="48%" />
