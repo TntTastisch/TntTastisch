@@ -22,7 +22,7 @@
   <a href="https://tiktok.com/@TntTastisch"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="https://twitch.tv/TntTastischTV"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
   <a href="https://kick.com/tnttastisch"><img src="https://img.shields.io/badge/Kick-53FC18?style=for-the-badge&logo=kickstarter&logoColor=white" /></a>
-  <a href="https://discord.gg/9t36BY5"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.gg/Jzyja8YkX7"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 <p align="center">
